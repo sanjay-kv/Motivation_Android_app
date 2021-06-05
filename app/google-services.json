@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21458694969",
+    "project_id": "motivation-wallpaper-56e72",
+    "storage_bucket": "motivation-wallpaper-56e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21458694969:android:13f5dacf1bf15d530f6ee8",
+        "android_client_info": {
+          "package_name": "com.wall.motivationwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21458694969-qr0emankbj03df86i7d6q4b7cpb6m9gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHbqB-tpZrEB44FEMDy5IbxJlKIh4GA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21458694969-qr0emankbj03df86i7d6q4b7cpb6m9gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
